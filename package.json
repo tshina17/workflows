@@ -8,4 +8,8 @@
     "url": "?.git"
   },
   "author": "Wan Xie",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.4"
+  }
 }
